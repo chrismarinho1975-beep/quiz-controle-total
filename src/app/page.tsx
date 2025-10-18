@@ -301,16 +301,16 @@ export default function ControleQuiz() {
                 <div className="space-y-6">
                   <div className="text-center">
                     <span className="text-2xl md:text-3xl font-bold text-green-400">
-                      Apenas R$ 9,90
+                      Apenas R$ 29,99
                     </span>
                     <p className="text-slate-400 mt-2">Investimento único • Acesso imediato</p>
                   </div>
 
                   <button
-                    onClick={() => window.open('#', '_blank')}
+                    onClick={() => window.open('https://go.plumify.com.br/8et5yhpns7', '_blank')}
                     className="w-full bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-500 hover:to-emerald-500 text-white font-bold py-5 px-8 rounded-2xl text-xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl shadow-lg"
                   >
-                    🔓 Liberar Agora por R$ 9,90
+                    🔓 Liberar Agora por R$ 29,99
                   </button>
 
                   <div className="flex items-center justify-center space-x-4 text-sm text-slate-400">
